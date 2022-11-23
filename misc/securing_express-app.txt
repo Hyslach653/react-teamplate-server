@@ -1,0 +1,9 @@
+1 - update express.js ✅
+2 - use tls ❎ on production
+3 - npm i helmet ✅
+4 - app.disable('x-powered-by') => this disables the headers that specify express is being used ✅
+5 - custom 404 error hanlder ✅
+6 - Prevent brute-force attacks against authorization:
+The first is number of consecutive failed attempts by the same user name and IP address ✅
+The second is number of failed attempts from an IP address over some long period of time. For example, block an IP address if it makes 100 failed attempts in one day ✅
+7 - Ensure your dependencies are secure with npm audit ✅

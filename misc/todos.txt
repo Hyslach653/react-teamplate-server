@@ -1,0 +1,5 @@
+✅ COMPLETED:
+- add login
+- add jwt
+
+❌ TO DO:
